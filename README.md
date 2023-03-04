@@ -17,5 +17,6 @@ Study project to get more knowledge on authentication, formulation and login pag
     <td>REACT JS</td>
     <td>REACT ROUTER DOM</td>
     <td>NODE</td>
+    <td>VITE</td>
   </tr>
 </table>
