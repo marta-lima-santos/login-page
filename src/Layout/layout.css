@@ -1,0 +1,10 @@
+.fold-login {
+    position: relative;
+    width: 400px;
+    height: 550px;
+    background: #AB8868;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
